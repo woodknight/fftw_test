@@ -4,5 +4,6 @@
         "*.cuh": "cpp",
         "*.cmake.in": "cmake",
         "iosfwd": "cpp"
-    }
+    },
+    "python.pythonPath": "/Users/jiangli/anaconda3/bin/python"
 }
