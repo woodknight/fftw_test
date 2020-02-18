@@ -1,7 +1,7 @@
 #!/bin/bash
+make
 
-W=3
-H=3
+W=4
 
-python simple_fft2.py
-./simple_fft2 ${W} ${H}
+python simple_fft1.py
+./simple_fft1 ${W}
